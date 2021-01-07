@@ -1,0 +1,13 @@
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\bin\Debug\netcoreapp3.1\StrategyCalculation.exe
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\bin\Debug\netcoreapp3.1\StrategyCalculation.deps.json
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\bin\Debug\netcoreapp3.1\StrategyCalculation.runtimeconfig.json
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\bin\Debug\netcoreapp3.1\StrategyCalculation.runtimeconfig.dev.json
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\bin\Debug\netcoreapp3.1\StrategyCalculation.dll
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\bin\Debug\netcoreapp3.1\StrategyCalculation.pdb
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\obj\Debug\netcoreapp3.1\StrategyCalculation.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\obj\Debug\netcoreapp3.1\StrategyCalculation.AssemblyInfoInputs.cache
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\obj\Debug\netcoreapp3.1\StrategyCalculation.AssemblyInfo.cs
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\obj\Debug\netcoreapp3.1\StrategyCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\obj\Debug\netcoreapp3.1\StrategyCalculation.dll
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\obj\Debug\netcoreapp3.1\StrategyCalculation.pdb
+C:\Users\Anderson\source\repos\StrategyCalculation\StrategyCalculation\obj\Debug\netcoreapp3.1\StrategyCalculation.genruntimeconfig.cache
